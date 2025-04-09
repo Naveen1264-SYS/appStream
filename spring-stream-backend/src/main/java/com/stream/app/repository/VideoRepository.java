@@ -11,7 +11,8 @@ public interface VideoRepository  extends JpaRepository<Video,String> {
 
     Optional<Video> findByTitle(String title) ;
 
-    //
+    Optional<Video> findById(Integer id) ;
+
 
 
     //
