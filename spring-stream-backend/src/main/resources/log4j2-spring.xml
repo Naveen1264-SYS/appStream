@@ -8,7 +8,7 @@
         <SplunkHttp
                 name="splunkhttp"
                 url="http://localhost:8088"
-                token="61616d9f-c82e-4ee6-828a-d4c3d8762804"
+                token="splunk token"
                 host="localhost"
                 index="video_api_stream"
                 type="raw"
